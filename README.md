@@ -10,8 +10,7 @@
 
 - 🎓 4th year Information Technology student at Saint Mary's University
 - 💼 Aspiring Software Engineer and Full-Stack Developer
-- 🏆 Achieved 85.74% in the Civil Service Examination Professional Level
-- 🚀 Participated in Hack4Gov Hackathon 2023
+- 🚀 Participated in Hack4Gov Hackathon 2024
 - 🌱 Currently learning **TypeScript** in depth
 
 ## 🛠️ Tech Stack
@@ -86,13 +85,6 @@
 - 📦 **Inventory Management System** - Windows Forms application for inventory tracking
 - 📚 **Legacy Data Processing System** - Desktop app for maintaining historical business records
 - 🤖 **Rina Discord Bot** - A Discord bot based on Love Live characters, built with Discord.js
-
-## 🏆 Achievements
-
-- 🎓 Academic Honors (90+ Average) - 3rd Year, 2nd Semester
-- 📝 Passed Civil Service Examination Professional Level (85.74%)
-- 🤖 3rd Place - VEX IQ Robotics Competition
-- 🔬 Regional Qualifier - Project PSFBP Research Competition
 
 ## 📫 Get in Touch
 
