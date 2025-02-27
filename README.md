@@ -3,8 +3,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PizzaSpark&style=flat-square&color=blue" alt="Profile Views"/>
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
   [![GitHub followers](https://img.shields.io/github/followers/PizzaSpark?label=Follow&style=social)](https://github.com/PizzaSpark)
 </div>
 
@@ -27,6 +25,7 @@
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/></a>
   </p>
   
@@ -75,7 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PizzaSpark&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PizzaSpark&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PizzaSpark&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PizzaSpark&layout=compact&theme=radical" alt="Top Languages" />
 </div>
@@ -86,6 +85,7 @@
 - 💰 **Utility Bill Payment Portal** - Mobile app for processing utility payments with Xendit integration
 - 📦 **Inventory Management System** - Windows Forms application for inventory tracking
 - 📚 **Legacy Data Processing System** - Desktop app for maintaining historical business records
+- 🤖 **Rina Discord Bot** - A Discord bot based on Love Live characters, built with Discord.js
 
 ## 🏆 Achievements
 
