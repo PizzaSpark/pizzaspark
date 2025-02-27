@@ -74,7 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PizzaSpark&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PizzaSpark&theme=radical&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PizzaSpark&theme=radical)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PizzaSpark&layout=compact&theme=radical" alt="Top Languages" />
 </div>
