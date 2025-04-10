@@ -8,9 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 4th year Information Technology student at Saint Mary's University
+- 🎓 Information Technology student at Saint Mary's University
 - 💼 Aspiring Software Engineer and Full-Stack Developer
-- 🚀 Participated in Hack4Gov Hackathon 2024
 - 🌱 Currently learning **TypeScript** in depth
 
 ## 🛠️ Tech Stack
@@ -80,11 +79,15 @@
 
 ## 🔥 Notable Projects
 
+- 🛠️ **ReVanced Auto-Patcher** - A fully automated pipeline that checks for new official app releases, applies ReVanced patches, and publishes the patched APKs to GitHub Releases. Built for continuous delivery with minimal manual intervention.
+- 🕒 **Internship Progress App** - A self-managed digital DTR app built with Expo. Allows interns to log time-ins/outs, configure holidays, track remaining internship hours, and estimate final completion dates.
+- 🤖 **Rina Discord Bot** - A Love Live-themed Discord bot built with `discord.js`, featuring character-based responses, media integration, and moderation utilities.
+- 🌀 **Perfect Gif Loop Maker** -  A Python CLI tool that takes a `.mp4` file, analyzes frame sequences, and outputs a seamlessly looping `.gif` by locating visually identical start and end frames.
+- 📊 **Excel Summary Generator** - A Next.js-based web application that ingests Excel files and generates a 5-page analytic report with auto-generated charts, key metrics, and visual summaries for rapid data digestion.
 - 🍽️ **Café Point of Sale System** - A comprehensive inventory management system with role-based access
 - 💰 **Utility Bill Payment Portal** - Mobile app for processing utility payments with Xendit integration
 - 📦 **Inventory Management System** - Windows Forms application for inventory tracking
 - 📚 **Legacy Data Processing System** - Desktop app for maintaining historical business records
-- 🤖 **Rina Discord Bot** - A Discord bot based on Love Live characters, built with Discord.js
 
 ## 📫 Get in Touch
 
