@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-- 🎓 Information Technology student at **Saint Mary's University**
+- 🎓 Information Technology graduate at **Saint Mary's University**
 - 💼 Aspiring **Software Engineer** and **Full-Stack Developer**
 - 🌱 Currently diving deep into **TypeScript**
 
