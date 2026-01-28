@@ -23,6 +23,7 @@ I'm a **Full Stack Developer** who's passionate about creating innovative soluti
 [![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 
 ### Frontend & Frameworks
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
@@ -44,6 +45,7 @@ I'm a **Full Stack Developer** who's passionate about creating innovative soluti
 ### DevOps & Database
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
 [![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://www.prisma.io)
+[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
 
 </div>
 
