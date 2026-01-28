@@ -16,25 +16,34 @@ I'm a **Full Stack Developer** who's passionate about creating innovative soluti
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,react,nextjs,typescript,bun,docker,prisma&perline=7)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
 
 ### Frontend & Frameworks
-![Skills](https://skillicons.dev/icons?i=react,nextjs&theme=dark)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
 
 ### Backend & Runtime
-![Skills](https://skillicons.dev/icons?i=nodejs,bun&theme=dark)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![Bun](https://skillicons.dev/icons?i=bun&theme=dark)](https://bun.sh)
 
 ### Languages
-![Skills](https://skillicons.dev/icons?i=typescript&theme=dark)
+[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org)
 
 ### Libraries & Tools
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-6366F1?style=for-the-badge&logo=elysia&logoColor=white)
+[![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)](https://hono.dev)
+[![Elysia](https://img.shields.io/badge/Elysia-6366F1?style=for-the-badge&logo=elysia&logoColor=white)](https://elysiajs.com)
 
 ### DevOps & Database
-![Skills](https://skillicons.dev/icons?i=docker,prisma&theme=dark)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
+[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://www.prisma.io)
 
 </div>
 
