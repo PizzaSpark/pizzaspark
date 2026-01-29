@@ -49,14 +49,6 @@ I'm a **Full Stack Developer** who's passionate about creating innovative soluti
 
 </div>
 
-## 🤝 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-godric-reyes/)
-
-</div>
-
 ---
 
 <div align="center">
