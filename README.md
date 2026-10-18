@@ -1,56 +1,23 @@
-# 👋 Hi, I'm PizzaSpark (Seanti)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" /><img alt="Seanti, Philippines. Full-stack engineer shipping HR platforms, AI-driven CRMs and web + mobile apps end to end. A pizza slice floats over a now.txt window: building an HR platform at Humanzlab, stack React, Hono and Postgres, mobile in Kotlin, Swift and Flutter, into cosplay and idols." src="assets/hero-light.svg" width="100%" /></picture>
 
-I'm a **Full Stack Developer** who's passionate about creating innovative solutions and bringing ideas to life through code. My energy comes from working on projects I'm truly excited about!
+<a href="https://seanti.is-a.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.svg" /><img alt="Portfolio" src="assets/btn-site-light.svg" /></picture></a>
+<a href="https://linkedin.com/in/sean-godric-reyes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" /><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" /></picture></a>
+<a href="mailto:seangodric@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg" /><img alt="Email" src="assets/btn-email-light.svg" /></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-views-dark.svg" /><img alt="Profile views" src="assets/btn-views-light.svg" /></picture><img src="https://komarev.com/ghpvc/?username=PizzaSpark" width="0" height="0" alt="" />
 
----
+I’m Sean Godric Reyes, Seanti for short. I turn messy real-world problems into clean, fast full-stack products, on the web and on phones.
 
-### 🎯 Interests
-- 💻 Full Stack Development
-- 🎭 Cosplays
-- 🎤 Idols
-- ⚡ Building things I'm passionate about
+<br>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-head-dark.svg" /><img alt="Selected work: three things worth opening" src="assets/work-head-light.svg" width="100%" /></picture>
+<a href="https://humanzlab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-humanzlab-dark.svg" /><img alt="01 Humanzlab HR System: hiring and HR, end to end." src="assets/work-humanzlab-light.svg" width="100%" /></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-crm-dark.svg" /><img alt="02 AI-Based CRM: AI-assisted customer workflows." src="assets/work-crm-light.svg" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-sellout-dark.svg" /><img alt="03 Product Sellout System: inventory and sellout tracking, web + mobile." src="assets/work-sellout-light.svg" width="100%" /></picture>
 
-## 🛠️ Tech Stack
+<br>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" /><img alt="What I build with. Languages: TypeScript, JavaScript, Python, C#. Frameworks: React, Vite, Tailwind CSS, TanStack, HonoJS, Elysia, Express, .NET. Databases: PostgreSQL, MySQL, MongoDB, SQLite, Redis, Prisma, Drizzle. Cloud and DevOps: Cloudflare, AWS, Azure, Docker, Vercel, Railway, Git, GitHub. Mobile: Kotlin, Swift, Flutter, KMP, Expo, React Native." src="assets/stack-light.svg" width="100%" /></picture>
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
-[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+<br><br>
 
-### Frontend & Frameworks
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org)
-
-### Backend & Runtime
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
-[![Bun](https://skillicons.dev/icons?i=bun&theme=dark)](https://bun.sh)
-
-### Languages
-[![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org)
-
-### Libraries & Tools
-[![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=react&logoColor=white)](https://tanstack.com)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
-[![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)](https://hono.dev)
-[![Elysia](https://img.shields.io/badge/Elysia-6366F1?style=for-the-badge&logo=elysia&logoColor=white)](https://elysiajs.com)
-
-### DevOps & Database
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
-[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://www.prisma.io)
-[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PizzaSpark&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+<a href="mailto:seangodric@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" /><img alt="Let’s build something. Open to roles, freelance builds and interesting problems; email is fastest. A pizza slice trots along the bottom." src="assets/footer-light.svg" width="100%" /></picture></a>
