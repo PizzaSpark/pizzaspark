@@ -417,19 +417,25 @@ def footer(theme):
 
 
 def read_views():
+    """The stored count label, e.g. "1.6K" (older files hold a plain int)."""
     try:
-        return json.loads(VIEWS.read_text())["views"]
+        views = json.loads(VIEWS.read_text())["views"]
     except (FileNotFoundError, KeyError, ValueError):
-        return 0
+        return "0"
+    return f"{views:,}" if isinstance(views, int) else str(views)
 
 
 def fetch_views():
-    """Current count from komarev (the invisible counter image in the README)."""
+    """Current count from komarev (the invisible counter image in the README).
+
+    komarev abbreviates large counts ("1.6K") even with abbreviated=false, and
+    only sends the rounded figure, so the label is kept as komarev prints it.
+    """
     url = f"https://komarev.com/ghpvc/?username={USERNAME}&abbreviated=false"
     req = urllib.request.Request(url, headers={"User-Agent": "profile-readme-render"})
     svg = urllib.request.urlopen(req, timeout=20).read().decode()
-    nums = [int(n.replace(",", "")) for n in re.findall(r">\s*([\d,]+)\s*<", svg)]
-    return max(nums) if nums else read_views()
+    labels = re.findall(r">\s*(\d[\d,.]*[KMB]?)\s*<", svg)
+    return labels[-1] if labels else read_views()
 
 
 # -------------------------------------------------------------------- main
@@ -442,12 +448,17 @@ def write(name, svg):
 
 def render_views(views):
     for theme in THEMES:
-        write(f"btn-views-{theme}.svg", button(theme, f"{views:,} profile views", "views"))
+        write(f"btn-views-{theme}.svg", button(theme, f"{views} profile views", "views"))
 
 
 def main():
     if "--views" in sys.argv:
         views = fetch_views()
+        # Font subsetting isn't byte-stable, so redrawing an unchanged count
+        # would still produce a commit.
+        if views == read_views() and all((OUT / f"btn-views-{t}.svg").exists() for t in THEMES):
+            print(f"views unchanged ({views})")
+            return
         VIEWS.write_text(json.dumps({"views": views}, indent=2) + "\n")
         render_views(views)
         return
